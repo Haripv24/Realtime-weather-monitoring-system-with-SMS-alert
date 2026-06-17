@@ -38,8 +38,8 @@ Hardware Components
     LPC2129 ARM7 Microcontroller
     DS1307 RTC Module
     Temperature Sensor (LM35 or equivalent)
-    SPI ADC (MCP3208/MCP3204)
-    GSM Module (SIM800/SIM900)
+    SPI ADC (MCP3208)
+    GSM Module (SIM900)
     16x2 LCD Display
     DC Motor / Fan
     Buzzer
